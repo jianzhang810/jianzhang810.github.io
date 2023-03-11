@@ -2,9 +2,7 @@
 
 ## theme
 
-`cd themes`
-git clone [Hex theme orange](https://github.com/jianzhang810/hexo-theme-orange)
-frok from [Orange](https://github.com/Orange-way/hexo-theme-orange)
+[Fluid Theme](https://hexo.fluid-dev.com/docs/guide/#%E5%85%B3%E4%BA%8E%E6%8C%87%E5%8D%97)
 
 Pull theme
 Change `theme: Orenge` in [_config.yml](./config.yml)

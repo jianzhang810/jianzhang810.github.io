@@ -1,7 +1,7 @@
 ---
 title: jianzhang's blog
 date: 2023-03-11 18:39:25
-categories: life
+categories: Life
 ---
 
-Jianzhang810's Blog
+Rivia's Blog
